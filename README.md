@@ -11,7 +11,7 @@ Portafolio personal con mis proyectos y muchas mas informacion.
 - Responsive
 
 ## Demo
-link: https://fedebarrazaa.github.io/mi-portfolio-react/
+link: (https://fedebarrazaa.github.io/federico-portfolio/)
 
 
 
