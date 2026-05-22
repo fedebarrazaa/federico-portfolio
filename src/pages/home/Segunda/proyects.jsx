@@ -17,14 +17,14 @@ export function Proyect() {
             title="App Pokemon" 
             subtitle="Permite explorar Pokémon, ver sus tipos y estadísticas de forma interactiva y responsive." 
             text="Demo 🡵"
-             href="https://fedebarrazaa.github.io/app-pokemon/" //pasar el link
+             href="https://fedebarrazaa.github.io/pokemon-api-app/" //pasar el link
             />        
 
                 <Cajas
             title="App Palabra" 
             subtitle="Una herramienta interactiva para desordenar palabras y frases." 
             text="Demo 🡵"
-             href="https://fedebarrazaa.github.io/app-desordenada/" //pasar el link
+             href="https://fedebarrazaa.github.io/text-scrambler/" //pasar el link
             />   
 
                 <Cajas
