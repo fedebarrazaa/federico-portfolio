@@ -2,9 +2,9 @@
 Portafolio personal con mis proyectos y muchas mas informacion.  
 
 ## 🛠 Tecnologías
-▪️ ## React
-▪️ ## TypeScript
-▪️ ## CSS
+▪️ **React**
+▪️ **TypeScript**
+▪️ **CSS**
 
 ## 💻 Features
 ▪️Login
