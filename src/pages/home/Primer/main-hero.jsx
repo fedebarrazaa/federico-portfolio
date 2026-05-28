@@ -7,7 +7,7 @@ export function PrimeraParte() {
     return (
         <>
         <Hero 
-        title="Software Developer trainee y cositas de Diseñador UI/UX." 
+        title="Software Developer Jr." 
         subtitle="Desarrollo experiencias digitales combinando código y diseño. Busco interfaces claras, modernas y funcionales, aprendiendo constantemente nuevas tecnologías."
         imagen={fotopefil}
         icon={[
