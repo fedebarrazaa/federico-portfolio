@@ -14,25 +14,32 @@ export function Proyect() {
 
             <section className="projects__cards">
                 <Cajas
-            title="App Pokemon" 
+            title="PokeScan" 
             subtitle="Permite explorar Pokémon, ver sus tipos y estadísticas de forma interactiva y responsive." 
             text="Demo 🡵"
              href="https://fedebarrazaa.github.io/pokemon-api-app/" //pasar el link
             />        
 
                 <Cajas
-            title="App Palabra" 
+            title="Text Scrambler" 
             subtitle="Una herramienta interactiva para desordenar palabras y frases." 
             text="Demo 🡵"
              href="https://fedebarrazaa.github.io/text-scrambler/" //pasar el link
             />   
 
                 <Cajas
-            title="Padel io" 
-            subtitle="¿Un juego? ¿una app? pronto lo sabremos. En desarrollo." 
+            title="Troki IA" 
+            subtitle="Un chat con IA para recolectar informacion." 
             text=" 🡵"
             href="#" //pasar el link
             />    
+
+                <Cajas
+            title="Task Flow" 
+            subtitle="Ordena tus tareas a tu manera." 
+            text=" 🡵"
+            href="#" //pasar el link
+            /> 
             </section>
             </section>
             
