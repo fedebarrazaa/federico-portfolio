@@ -30,7 +30,7 @@ export function Proyect() {
                 <Cajas
             title="Troki IA" 
             subtitle="Un chat con IA para recolectar informacion." 
-            text=" 🡵"
+            text=" Demo 🡵"
             href="https://ai-content-generator-beta-sable.vercel.app/" //pasar el link
             />    
 
