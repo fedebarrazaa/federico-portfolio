@@ -31,7 +31,7 @@ export function Proyect() {
             title="Troki IA" 
             subtitle="Un chat con IA para recolectar informacion." 
             text=" 🡵"
-            href="#" //pasar el link
+            href="https://ai-content-generator-beta-sable.vercel.app/" //pasar el link
             />    
 
                 <Cajas
